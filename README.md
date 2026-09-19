@@ -1,2 +1,0 @@
-# Mauqa
-My chance app
